@@ -1,7 +1,6 @@
 # express-mcsr
 
-[![npm version](https://badge.fury.io/js/express-mcsr.svg)](https://badge.fury.io/js/express-mcsr)
-[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+
 
 
 Initialize MCSR project structure for Express.js effortlessly.
