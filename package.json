@@ -1,0 +1,23 @@
+{
+  "name": "express-mcsr",
+  "version": "1.0.0",
+  "description": "Express MVC Boilerplate is an npm package that simplifies the setup process for Express.js applications following the MVC (Model-View-Controller) architecture. Quickly generate the required folder structure and basic server setup with a single command, saving time and effort when starting new projects.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddhant-Kashyap/express-mcsr.git"
+  },
+  "keywords": [
+    "npm-package",
+    "express-setup"
+  ],
+  "author": "Siddhant Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddhant-Kashyap/express-mcsr/issues"
+  },
+  "homepage": "https://github.com/Siddhant-Kashyap/express-mcsr#readme"
+}
